@@ -3,7 +3,7 @@ Intern Boot Camp Domain Search project.
 
 ## References
 
-Slack: 
+Slack: `#bootcamp2020` 
 
 Training URLS: 
 - Pluralsight
