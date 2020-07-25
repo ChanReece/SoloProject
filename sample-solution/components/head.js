@@ -24,3 +24,5 @@ Head.defaultProps = {
 };
 
 export default Head;
+
+
